@@ -38,7 +38,7 @@
 <h1>Task 12: Pause participation</h1>
 <p>Pause your current participation in the group’s activities</p>
 
-<h1>Task 13: Guive turn to speak</h1>
+<h1>Task 13: Give turn to speak</h1>
 <p>Give a teammate the turn to speak when asking for it</p>
 
 <h1>Task 14: Ask for everyone's attention</h1>
